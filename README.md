@@ -10,8 +10,9 @@ To help create data-informed decisions, insights and recommendations are provide
 - **Discount Analysis**: Examination of how order size, revenue contribution, and monthly order counts vary across discount bands.
   
 The Kaggle dataset can be found [here](https://www.kaggle.com/datasets/arjunmehta1992/chocolate-sales-in-20222023)  
-You can view the interactive Tableau dashboard [here](https://public.tableau.com/views/Chocolate_Sales_Dashboard_17919081098370/ChocolateSalesDashboard)
-> **Note:** The workbook is available for download from the dashboard page. Click **Download -> Tableau Workbook**.
+You can download the Excel workbook [here](docs/Chocolate_Sales.xlsx?raw=true)  
+You can view the interactive Tableau dashboard [here](https://public.tableau.com/views/Chocolate_Sales_Dashboard_17919081098370/ChocolateSalesDashboard)  
+> **Note:** The Tableau workbook is available for download from the dashboard page. Click **Download -> Tableau Workbook**.
 
 <br/>
 
