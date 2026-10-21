@@ -11,7 +11,7 @@ To help create data-informed decisions, insights and recommendations are provide
   
 The Kaggle dataset can be found [here](https://www.kaggle.com/datasets/arjunmehta1992/chocolate-sales-in-20222023)  
 You can download the Excel workbook [here](docs/Chocolate_Sales.xlsx?raw=true)  
-You can view the interactive Tableau dashboard [here](https://public.tableau.com/views/Chocolate_Sales_Dashboard_17919081098370/ChocolateSalesDashboard)  
+You can view the interactive Tableau dashboard [here](https://public.tableau.com/views/Chocolate_Sales_Dashboard_17919081098370/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 > **Note:** The Tableau workbook is available for download from the dashboard page. Click **Download -> Tableau Workbook**.
 
 <br/>
@@ -97,7 +97,8 @@ Discount bands were created in 10-point increments: **0-10%, 11-20%, 21-30%, and
 
 - **Seasonality:** Monthly order counts stay steady within every discount band throughout 2022-2023, so the mix of discount bands does not change between peak and off-peak months. This describes how discounts were used, not whether seasonal discounting would improve results.
   
-<img width="1432" height="767" alt="image" src="https://github.com/user-attachments/assets/4c0b9439-7a28-4f95-9ae7-4cd45b2c45ad" />
+<img width="1427" height="758" alt="image" src="https://github.com/user-attachments/assets/5ba9b592-a864-4a88-833f-35284c971521" />
+
 
 
 <br/>
